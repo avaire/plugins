@@ -13,6 +13,13 @@
       "author": "Alexis Tan <Senither#0001>",
       "repository": "avaire/suggestion-plugin",
       "source": "github"
+    },
+    {
+      "name": "NowPlaying",
+      "description": "NowPlaying is a small, single-use plugin for AvaIre that links the music handler for some servers to the bots status message, this will change the bots status when songs are being played.",
+      "author": "Alexis Tan <Senither#0001>",
+      "repository": "avaire/now-playing-plugin",
+      "source": "github"
     }
   ]
 }
