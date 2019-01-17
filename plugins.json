@@ -20,6 +20,13 @@
       "author": "Alexis Tan <Senither#0001>",
       "repository": "avaire/now-playing-plugin",
       "source": "github"
+    },
+    {
+      "name": "StayConnected",
+      "description": "A super simple plugin that makes the bot stay connected to voice channels... Forever.",
+      "author": "Alexis Tan <Senither#0001>",
+      "repository": "avaire/stay-connected-plugin",
+      "source": "github"
     }
   ]
 }
